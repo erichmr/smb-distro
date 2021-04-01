@@ -6,7 +6,6 @@ import matplotlib as plt
 import pandas as pd
 import pytz
 import requests
-# import rows
 import time
 
 # variables
@@ -39,6 +38,7 @@ print(localtime)
 # post processing conditions
 ## calculations
 # conditions
+
 
 # final results
 ## get output data
